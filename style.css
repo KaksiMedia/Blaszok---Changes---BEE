@@ -1,0 +1,49 @@
+#mpcth_page_wrap #mpcth_main #mpcth_content_wrap .wpb_tour .wpb_tabs_nav > li > a {
+    text-transform: none;
+}
+#mpcth-product-wrap .mpc-vc-products-slider mpcth-items-slider products .mpcth-post-title {
+    font-size: 0.85em;
+}
+.mpcth-post-categories {
+    display: none;
+}
+.mpcth-post-title {
+font-size: 12px;
+}
+#mpcth_page_wrap .woocommerce .products .product .mpcth-post-title, .woocommerce-page #mpcth_page_wrap .products .product .mpcth-post-title {
+    line-height: 2em;
+}
+.single-post .mpcth-post-meta .mpcth-author {
+    display: none !important;
+}
+.mpcth-author {
+    display: none !important;
+}
+#mpcth_footer {
+    font-weight: bold;
+}
+@media only screen and (max-width: 767px) {
+   .page-template-template-lookbook-php .mpcth-vc-row-wrap.mpcth-vc-row-wrap-parallax .mpcth-overlay-image,
+   .page-template-template-fullwidth-php .mpcth-vc-row-wrap.mpcth-vc-row-wrap-parallax .mpcth-overlay-image,
+   .page-template-template-fullwidth-with-sidebar-php .mpcth-vc-row-wrap.mpcth-vc-row-wrap-parallax .mpcth-overlay-image,
+   .page-template-default .mpcth-vc-row-wrap.mpcth-vc-row-wrap-parallax .mpcth-overlay-image {
+       background-attachment: fixed;
+   }
+}
+#mpcth_page_wrap .woocommerce .onsale, .woocommerce-page #mpcth_page_wrap .onsale {
+    background-image: none;
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 0.9em;
+    font-weight: normal;
+    left: auto;
+    line-height: 1.5em;
+    min-height: 0;
+    padding: 0 4em;
+    right: -4.5em;
+    text-shadow: none;
+    text-transform: uppercase;
+    top: 2em;
+    transform: rotate(45deg);
+    z-index: 2;
+}
