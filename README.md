@@ -1,3 +1,3 @@
-# beesweet
-Projecto beesweet
+# Blaszok
+Projecto BEE
 Alterações efectuadas
